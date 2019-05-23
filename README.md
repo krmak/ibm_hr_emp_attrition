@@ -1,4 +1,4 @@
 # ibm_hr_emp_attrition
-Python Jupyter and Apache Spark Databricks notebooks, data sets, and other materials for personal IBM HR Employee Attrition data science project.
+This repository consists of Python Jupyter and Apache Spark Databricks notebooks, data sets, and other materials for personal IBM HR Employee Attrition data science project. In this project, I explored, visualized, engineered, and selected the features used to predict whether an IBM employee will leave the firm. Also, I trained logistic regression, k-nearest neighbors, and decision tree machine learning models to predict employee attrition. The final phase of the project involved grouping employees into three clusters through k-means clustering and the features selected to predict employee churn. 
 
-UPDATE on 05.07.2019: I broke the project Python Jupyter Notebook into smaller notebooks and incorporated the code where I converted the finalized churn modeling dataframe into a pickle object.
+UPDATE on May 7, 2019: I broke the project Python Jupyter Notebook into smaller notebooks and incorporated the code where I converted the finalized churn modeling dataframe into a pickle object.
